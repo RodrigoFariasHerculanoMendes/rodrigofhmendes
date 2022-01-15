@@ -18,6 +18,7 @@
   <a href="https://medium.com/@rodrigofhmendes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
  <a href="https://steamcommunity.com/profiles/76561198083815773" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
 </div>
-  
+ 
+![Snake animation](https://github.com/rodrigofhmendes/rodrigofhmendes/blob/output/github-contribution-grid-snake.svg)
 
 	
